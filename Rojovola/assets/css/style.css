@@ -1,0 +1,63 @@
+.citation{
+	animation-name:fadeInLeft;
+	animation-iteration-count: initial;
+	animation-duration: 8S;
+	font-family: broadway;
+	color: solid-black;
+	text-align: center;
+	font-size: 50px;
+}
+
+
+#titre{
+	text-align: center;
+	margin-top: -300px;
+}
+
+#text{
+	
+	margin-left: 500px;
+}
+
+#a{
+	width: 400px;
+	height: 250px;
+}
+
+#image{
+	width: 100px;
+	height: 100px;
+	
+}
+.tech{
+	width: 150px;
+	height: 150px;
+}
+
+.book{
+	width: 100px;
+	height: 100px;
+}
+
+#first{
+	margin-left: 525px;
+	margin-top: 40px;
+}
+p{
+	margin-top: -100px;
+	font-size: 17px;
+}
+#md{
+	margin-left: 25px;
+	margin-top: 30px;
+}
+.machine{
+	margin-top: 50px;
+	margin-left: 50px;
+}
+body{
+	background-color: lightgrey;
+}
+.ta{
+	margin-left: 50px;
+}
